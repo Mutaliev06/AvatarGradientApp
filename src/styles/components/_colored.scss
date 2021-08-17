@@ -1,0 +1,17 @@
+.colored{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: linear-gradient(to right, green, blue);
+  padding: 6px;
+  &__img{
+    width: 100%;
+    height: 100%;
+    padding: 4px;
+    border-radius: 50%;
+    background-color: red;
+  }
+  &:hover{
+    background: linear-gradient(to right, blue, green);
+  }
+}
