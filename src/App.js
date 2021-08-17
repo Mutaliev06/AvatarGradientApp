@@ -1,4 +1,4 @@
-import ColoredUserpic from './ColoredUserpic';
+import ColoredUserpic from './components/ColoredUserpic';
 
 function App() {
   return (

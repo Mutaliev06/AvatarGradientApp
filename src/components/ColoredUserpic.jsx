@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './images/avatar.jpg'
+import logo from '../images/avatar.jpg'
 
 function ColoredUserpic(props) {
   return (
