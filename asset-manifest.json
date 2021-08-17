@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AvatarGradientApp/static/css/main.bbcd4068.chunk.css",
-    "main.js": "/AvatarGradientApp/static/js/main.4215d2ad.chunk.js",
-    "main.js.map": "/AvatarGradientApp/static/js/main.4215d2ad.chunk.js.map",
+    "main.js": "/AvatarGradientApp/static/js/main.55af3ab2.chunk.js",
+    "main.js.map": "/AvatarGradientApp/static/js/main.55af3ab2.chunk.js.map",
     "runtime-main.js": "/AvatarGradientApp/static/js/runtime-main.2a2ef702.js",
     "runtime-main.js.map": "/AvatarGradientApp/static/js/runtime-main.2a2ef702.js.map",
     "static/js/2.3c2a83f8.chunk.js": "/AvatarGradientApp/static/js/2.3c2a83f8.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.2a2ef702.js",
     "static/js/2.3c2a83f8.chunk.js",
     "static/css/main.bbcd4068.chunk.css",
-    "static/js/main.4215d2ad.chunk.js"
+    "static/js/main.55af3ab2.chunk.js"
   ]
 }
